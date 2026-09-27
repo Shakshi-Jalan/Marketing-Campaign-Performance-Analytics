@@ -115,23 +115,23 @@ Campaigns with missing campaign information are represented as **"(not set)"**.
 
 ### Executive Overview
 
-![Executive Overview](executive_overview.png)
+![Executive Overview](Dashboard_Screenshots/executive_overview.png)
 
 ### Channel Analysis
 
-![Channel Analysis](channel_analysis.png)
+![Channel Analysis](Dashboard_Screenshots/channel_analysis.png)
 
 ### Device Analysis
 
-![Device Analysis](device_analysis.png)
+![Device Analysis](Dashboard_Screenshots/device_analysis.png)
 
 ### Time Analysis
 
-![Time Analysis](time_analysis.png)
+![Time Analysis](Dashboard_Screenshots/time_analysis.png)
 
 ### Campaign Analysis
 
-![Campaign Analysis](campaign_analysis.png)
+![Campaign Analysis](Dashboard_Screenshots/campaign_analysis.png)
 
 ## 💡 Key Insights
 
