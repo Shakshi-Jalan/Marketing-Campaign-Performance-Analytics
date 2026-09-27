@@ -1,0 +1,9 @@
+channel,sessions,transactions,conversion_rate,revenue,revenue_per_session
+Referral,7648,326,4.26,47113.45,6.16
+Display,660,23,3.48,2865.55,4.34
+Direct,13381,120,0.9,32125.06,2.4
+Paid Search,2533,30,1.18,2663.77,1.05
+Organic Search,28769,208,0.72,21225.48,0.74
+Social,10454,6,0.06,254.84,0.02
+(Other),6,,,0.0,0.0
+Affiliates,1243,,,0.0,0.0
